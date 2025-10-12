@@ -1,4 +1,4 @@
-  ![MasterHead](https://images-ext-1.discordapp.net/external/UjaE_m9Ij4kDr-nw4C-g5MW8_GB0jnlJtXo9QqIxV2s/%3Fsize%3D4096/https/cdn.discordapp.com/banners/426738295725228033/ede272102e19f98a2025e505688c8510.png?format=webp&quality=lossless&width=764&height=269)
+  ![MasterHead](https://cdn.discordapp.com/attachments/1413836870911135754/1426898364510769202/image.png?ex=68ece628&is=68eb94a8&hm=0de78dfb00f8d4247fe8d0acd94098f635bed62cbbdd2f4a769ea13774ac07bc&)
 
 <h1 align="center">Hi 👋, I'm Metoa</h1>
 <h3 align="center">A passionate discord bot developer from Türkiye</h3>
